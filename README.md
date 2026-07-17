@@ -1,4 +1,4 @@
-# Caroline Somers
+# carolinesomers
 
 Cybersecurity-interested professional currently working in network security. In my free time I do reverse engineering, malware analysis, and CTFs.
 
